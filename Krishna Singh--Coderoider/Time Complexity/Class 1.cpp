@@ -1,5 +1,6 @@
 
-Time Complexity Question 1 Interviewbit
+Time Complexity 
+Question 1 Interviewbit
 What is the time, space complexity of following code :
 
         int a = 0, b = 0;    
@@ -10,3 +11,5 @@ What is the time, space complexity of following code :
             b = b + rand();
         }
 Assume that rand() is O(1) time, O(1) space function.
+        Answer : 
+
